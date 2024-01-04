@@ -35,7 +35,7 @@ It requires additional packages to install: <br>
 3. Matplotlib
 4. PyQt5
 
-For a detailed overview of the project, kindly refer to the associated [Word document]().
+For a detailed overview of the project, kindly refer to the associated [Word document](https://github.com/SaikiranBSK10/Invictus-Warehouse-Direct/blob/main/Invictus_project_report.pdf).
 
 
 
