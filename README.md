@@ -4,6 +4,7 @@ application has never been more crucial. The "Invictus Warehouse Direct" project
 operational and analytical functionalities to streamline customer transactions and empower sales executives with valuable 
 insights. At its core, the system serves as an operational database, facilitating customer interactions with the warehouse.
 through a user-friendly web portal.<br>
+
 In parallel, the application offers a dedicated portal for sales executives, providing them with a comprehensive suite of
 analytical tools. This dual-purpose approach empowers executives to make data-driven decisions, contributing to effective
 inventory management and strategic business planning. The goal is to enhance operational efficiency by identifying
