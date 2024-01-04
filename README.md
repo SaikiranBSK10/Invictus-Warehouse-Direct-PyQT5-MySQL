@@ -33,7 +33,9 @@ It requires additional packages to install: <br>
 1. Pandas 
 2. NumPy 
 3. Matplotlib
-4. 
+4. PyQt5
+
+For a detailed overview of the project, kindly refer to the associated [Word document]().
 
 
 
